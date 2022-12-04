@@ -5,17 +5,40 @@
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: "Gabriola";
   src: url("../fonts/Gabriola.ttf") format("truetype");
 }
+
+
+@font-face {
+  font-family: "Consolas";
+  src: url("../fonts/Consolas.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Martina";
+  src: url("../fonts/Martina.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HomemadeS";
+  src: url("../fonts/HomemadeS.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Dinomik";
+  src: url("../fonts/Dinomik.otf") format("truetype");
+}
+
 /* =======================================================
 *
 * 	Template Style
 *
 * ======================================================= */
 body {
-  font-family: "Sofia";
+  font-family: "Martina", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
