@@ -5,6 +5,10 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: "Gabriola";
+  src: url("../fonts/Gabriola.ttf") format("truetype");
+}
 /* =======================================================
 *
 * 	Template Style
